@@ -1,4 +1,4 @@
-# anything-tui
+# AnythingTUI
 
 A simple TUI for the AnythingLLM project, built in Go and Bubbletea.
 
